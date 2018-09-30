@@ -1,0 +1,11 @@
+D:\New folder\ShopBackend\src\main\java\com\niit\shopbackend\config\DBConfig.java
+D:\New folder\ShopBackend\src\main\java\com\niit\shopbackend\model\Product.java
+D:\New folder\ShopBackend\src\main\java\com\niit\shopbackend\App.java
+D:\New folder\ShopBackend\src\main\java\com\niit\shopbackend\model\Category.java
+D:\New folder\ShopBackend\src\main\java\com\niit\shopbackend\dao\ProductRepository.java
+D:\New folder\ShopBackend\src\main\java\com\niit\shopbackend\dao\CategoryRepository.java
+D:\New folder\ShopBackend\src\main\java\com\niit\shopbackend\dao\CategoryRepositoryImpl.java
+D:\New folder\ShopBackend\src\main\java\com\niit\shopbackend\model\UserDetails.java
+D:\New folder\ShopBackend\src\main\java\com\niit\shopbackend\dao\UserDetailsRepository.java
+D:\New folder\ShopBackend\src\main\java\com\niit\shopbackend\dao\ProductRepositoryImpl.java
+D:\New folder\ShopBackend\src\main\java\com\niit\shopbackend\dao\UserDetailsRepositoryImpl.java
